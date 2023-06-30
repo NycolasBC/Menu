@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Prova_POO03
 {
-    internal class Program
+    internal class Premio
     {
-        static void Main(string[] args)
-        {
-            Loja.MenuGeral();
-        }
+        public int Codigo { get; set; }
+        public string Descricao { get; set; }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\obj\Debug\Prova_POO03.csproj.AssemblyReference.cache
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\obj\Debug\Prova_POO03.csproj.SuggestedBindingRedirects.cache
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\obj\Debug\Prova_POO03.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\bin\Debug\Prova_POO03.exe.config
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\bin\Debug\Prova_POO03.exe
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\bin\Debug\Prova_POO03.pdb
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\obj\Debug\Prova_POO03.exe
+C:\Users\n\Desktop\Repositorios\Uniaraxa\POO\Avaliação\Prova_POO03\obj\Debug\Prova_POO03.pdb
